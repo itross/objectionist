@@ -1,0 +1,18 @@
+{
+    "env": {
+        "commonjs": true,
+        "es2021": true,
+        "node": true
+    },
+    "extends": "@itross/eslint-config-itr",
+    "parserOptions": {
+        "ecmaVersion": "latest",
+        "sourceType": "commonjs"
+    },
+    "ignorePatterns": [
+        "node_modules",
+        "**/*.ejs"
+    ],
+    "rules": {
+    }
+}
