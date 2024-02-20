@@ -1,0 +1,20 @@
+{
+  "name": "@itross/objectionist",
+  "version": "0.1.0",
+  "description": "An helper and repository-like lib for working with Knex/Objection.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itross/objectionist.git"
+  },
+  "keywords": [
+    "knex",
+    "objection.js",
+    "repository"
+  ],
+  "author": "Luca Stasio <joshuagame@gmail.com>",
+  "license": "MIT"
+}
